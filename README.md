@@ -1,4 +1,5 @@
 # DC Motor Speed Control Using PID – MATLAB/Simulink
+![Simulink Model.JPG](https://github.com/AhmedOmrani10/DC-Motor-Speed-Control-Using-PID/blob/main/Simulink%20Model.JPG?raw=true)
 
 This project implements a closed-loop speed control system for a separately excited DC motor using a PID controller in MATLAB/Simulink.  
 The goal is to maintain a desired reference speed under different load conditions by adjusting the motor's armature voltage.
@@ -110,6 +111,8 @@ TL = 12; % N*m
 ---
 
 ## 📊 Simulation Results
+<img width="933" height="456" alt="image" src="https://github.com/user-attachments/assets/d75525e8-6add-4a58-9f1f-2d57f5310be6" />
+
 
 ### With PID Controller
 - Fast response
